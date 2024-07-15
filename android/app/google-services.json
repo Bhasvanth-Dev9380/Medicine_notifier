@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "159226975842",
+    "project_id": "adhicine-67800",
+    "storage_bucket": "adhicine-67800.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159226975842:android:ffa30ba1e68b1ead39e33b",
+        "android_client_info": {
+          "package_name": "com.example.umla_help"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5IyxLXgYeQ4fk8h_dvk-oHzJpfnOiluM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
